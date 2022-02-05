@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Nothing+You+Could+Do&display=swap');
+
+body {
+  font-family: 'Aldrich', sans-serif;
+  color: rgb(224, 224, 224);
+  background-color: black;
+  font-size: 80px;
+  margin: auto;
+  padding: 80px;
+  text-align: center;
+}
+
+div {
+  font-size: 200px;
+}
