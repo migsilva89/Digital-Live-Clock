@@ -8,6 +8,9 @@ function updateTime() {
     var dateNow = new Date()//Collect current day
     var date = document.getElementById('date')
     date.innerHTML = dateNow.toDateString() //Covert DATE FORMAT TO STRING ex: Sunday 15 Feb 2022
+
 }
+
+
 setInterval(updateTime,500)
 
